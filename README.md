@@ -39,3 +39,8 @@ Documented · MIT licensed · Maintained
 ## 🚀 Quick start
 
 Clone the repository and follow project-specific setup in docs.
+
+## Screenshots
+
+![dev dashboard](docs/screenshots/app.png)
+
